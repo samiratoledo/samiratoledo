@@ -28,7 +28,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/seu-usuário-aqui/samiratoledo/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
