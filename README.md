@@ -1,24 +1,32 @@
-### Sobre mim
+# Olá, eu sou a Samira Toledo! 👋
 
-[cite_start]✨ Criando bugs (e soluções também) desde 2025 
-[cite_start]🎓 Cursando Técnico em Desenvolvimento de Sistemas na ETEC Zona Leste [cite: 14, 15]
+Estudante de **Desenvolvimento de Sistemas** na **ETEC Zona Leste**, focada em criar interfaces modernas, funcionais e seguras.
 
-[cite_start]🌿 **Ybyra** — um projeto que une sustentabilidade e tecnologia para incentivar práticas ecológicas no Brasil. 
-[cite_start]💧 **Naiya** — solução inteligente para monitoramento da qualidade da água e alertas de enchente. 
-[cite_start]📚 **Revista Escolar** — Atuação em diagramação, pesquisa de conteúdo e comunicação entre alunos e coordenação. 
+### 🛠️ Tecnologias e Ferramentas
 
-### Ferramentas e Linguagens
-
-**Desenvolvimento:**
+**Linguagens e Web:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-[cite_start]![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Design & Prototipagem:**
+**Design & Prototipagem (UI/UX):**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-[cite_start]![CorelDraw](https://img.shields.io/badge/CorelDraw-%23004a1a.svg?style=for-the-badge&logo=coreldraw&logoColor=white) 
+![CorelDraw](https://img.shields.io/badge/CorelDraw-%23004a1a.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
 
-**Diferenciais:**
-[cite_start]🛡️ **Cibersegurança** (Cisco Networking Academy) 
-[cite_start]🤟 **Libras** (Kultivi) [cite: 12]
+**Infraestrutura e Segurança:**
+![Cisco](https://img.shields.io/badge/Cisco-0496FF?style=for-the-badge&logo=Cisco&logoColor=white) (Introdução à Cybersecurity)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📂 Projetos em Destaque
+
+* **Ybyra:** Plataforma gamificada sobre sustentabilidade inspirada no Duolingo. Foco em lógica de programação e interatividade.
+* **Naiya:** Sistema de monitoramento e alerta de enchentes, explorando integração de lógica e interface para o usuário.
+
+---
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samira-toledo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiracarvalhotoledo@gmail.com)
