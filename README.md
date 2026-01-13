@@ -28,5 +28,9 @@ Estudante de **Desenvolvimento de Sistemas** na **ETEC Zona Leste**, focada em c
 ---
 
 ### 📫 Contato <br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samira-toledo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiracarvalhotoledo@gmail.com)
+<a href="https://www.linkedin.com/in/samira-toledo/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:samiracarvalhotoledo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
