@@ -16,7 +16,6 @@ Estudante de **Desenvolvimento de Sistemas** na **ETEC Zona Leste**, focada em c
 
 **Infraestrutura e Segurança:** <br>
 ![Cisco](https://img.shields.io/badge/Cisco-0496FF?style=for-the-badge&logo=Cisco&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
