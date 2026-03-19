@@ -9,6 +9,8 @@ Estudante de **Desenvolvimento de Sistemas** na **ETEC Zona Leste**, focada em c
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23E34F26.svg?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23E34F26.svg?style=for-the-badge&logo=C++&logoColor=white)
 
 **Design & Prototipagem (UI/UX):** <br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
