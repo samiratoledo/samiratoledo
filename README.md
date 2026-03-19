@@ -23,8 +23,8 @@ Estudante de **Desenvolvimento de Sistemas** na **ETEC Zona Leste**, focada em c
 
 ### 📂 Projetos em Destaque
 
-* **Ybyra:** Plataforma gamificada sobre sustentabilidade inspirada no Duolingo. Foco em lógica de programação e interatividade.
-* **Naiya:** Sistema de monitoramento e alerta de enchentes, explorando integração de lógica e interface para o usuário.
+* **Bibliotech:** Plataforma gamificada sobre sustentabilidade inspirada no Duolingo. Foco em lógica de programação e interatividade.
+* **Calculadora Multifunções:** Suíte utilitária em JavaScript para processamento de dados em tempo real, com manipulação de DOM e interface responsiva.
 
 ---
 
