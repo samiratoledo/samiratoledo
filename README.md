@@ -15,11 +15,11 @@ Estudante de **Desenvolvimento de Sistemas** na **ETEC Zona Leste**, focada em c
 **Design & Prototipagem (UI/UX):** <br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![CorelDraw](https://img.shields.io/badge/CorelDraw-%23004a1a.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
-[!ARDUINO](https://img.shields.io/badge/ARDUINO-%23E34F26.svg?style=for-the-badge&logo=ARDUINO&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-%23E34F26.svg?style=for-the-badge&logo=ARDUINO&logoColor=white)
 
 **Infraestrutura e Segurança:** <br>
 ![Cisco](https://img.shields.io/badge/Cisco-0496FF?style=for-the-badge&logo=Cisco&logoColor=white)
-![GIT](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=gitO&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
