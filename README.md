@@ -25,7 +25,7 @@
 
 ### 📂 Featured Projects
 
-* **Bibliotech:** A gamified sustainability platform inspired by Duolingo. Focused on programming logic and interactivity.
+* **Bibliotech:** System for librarys. Focused on programming logic and interactivity.
 * **Multi-function Calculator:** A utility suite in JavaScript for real-time data processing, featuring DOM manipulation and responsive interface.
 
 ---
