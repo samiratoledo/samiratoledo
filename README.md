@@ -20,7 +20,6 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** na **ETEC Zona Leste**,
 **Eletrônica & Sistemas Embarcados:** <br>
 ![Arduino](https://img.shields.io/badge/ARDUINO-%2300979D.svg?style=for-the-badge&logo=ARDUINO&logoColor=white)
 <br>
-<sub>Experiência prática com sensores (ultrassônico, potenciômetro), atuadores (buzzer, LED) e prototipagem tanto em simulação (Tinkercad) quanto em hardware físico.</sub>
 
 ---
 
